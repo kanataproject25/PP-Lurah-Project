@@ -1,0 +1,23 @@
+vendor/
+node_modules/
+storage/
+public/arsha/
+public/css/
+public/img/
+public/favicon.ico
+public/robots.txt
+bootstrap/cache/
+storage/
+node_modules/
+vendor/
+*.log
+*.lock
+*.rar
+*.map
+.DS_Store
+.idea/
+.vscode/
+
+# Explicitly include .env files
+!.env
+!.env.* 
